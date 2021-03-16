@@ -5,17 +5,19 @@ A student majoring in CSc	:full_moon_with_face:. **Artificial Intelligence** is 
 Professional skills are as follows:fire: :
 | Skills :bulb: | Proficiency :chart_with_upwards_trend: |
 |:----:|:----:|
-|C++| 75%|
-|C| 70%|
+|C++| 80%|
+|C| 75%|
 |Linux| 65%|
 |Prolog| 60%|
-|Java| 55%|
+|Java| 60%|
+|Python| 55%|
 |Javascript| 55%|
 |R|55%|
-|Markdown| 50%|
+|Markdown| 55%|
+|Modeling| 50%|
 |SQL| 45%|
 |Obj-C/Swift| 35%|
-|Python| 30%|
+|Assembly| 35%|
 |OCaml| 30%|
 
 
