@@ -5,20 +5,20 @@ A student majoring in CSc	:full_moon_with_face:. **Artificial Intelligence** is 
 Professional skills are as follows:fire: :
 | Skills :bulb: | Proficiency :chart_with_upwards_trend: |
 |:----:|:----:|
-|C++| 80%|
-|C| 75%|
-|Linux| 65%|
-|Prolog| 60%|
-|Java| 60%|
-|Python| 55%|
-|Javascript| 55%|
-|R|55%|
-|Markdown| 55%|
-|Modeling| 50%|
-|SQL| 45%|
-|Obj-C/Swift| 35%|
-|Assembly| 35%|
-|OCaml| 30%|
+|C++| 60%|
+|C| 55%|
+|Linux| 55%|
+|Prolog| 45%|
+|Java| 45%|
+|Python| 40%|
+|Javascript| 40%|
+|R|40%|
+|Markdown| 40%|
+|Modeling| 40%|
+|SQL| 35%|
+|Obj-C/Swift| 25%|
+|Assembly| 25%|
+|OCaml| 20%|
 
 
  - :envelope: Email: songjh.john@gmail.com
