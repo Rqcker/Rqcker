@@ -10,11 +10,11 @@ Professional skills are as follows:fire: :
 |Linux| 55%|
 |Prolog| 45%|
 |Java| 45%|
-|Python| 40%|
+|Python| 45%|
 |Javascript| 40%|
 |R|40%|
 |Markdown| 40%|
-|Modeling| 40%|
+|Modeling| 35%|
 |SQL| 35%|
 |Obj-C/Swift| 25%|
 |Assembly| 25%|
