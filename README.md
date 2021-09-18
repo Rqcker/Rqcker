@@ -1,24 +1,7 @@
 ### Hi there 👋
 :mortar_board: **Junhao Song**,
 
-A student majoring in CSc	:full_moon_with_face:. **Artificial Intelligence** is the main research direction. An independent team worker with a strong interest in programming and logic.
-Professional skills are as follows:fire: :
-| Skills :bulb: | Proficiency :chart_with_upwards_trend: |
-|:----:|:----:|
-|C++| 60%|
-|C| 55%|
-|Linux| 55%|
-|Prolog| 45%|
-|Java| 45%|
-|Python| 45%|
-|Javascript| 40%|
-|R|40%|
-|Markdown| 40%|
-|Modeling| 35%|
-|SQL| 35%|
-|Obj-C/Swift| 25%|
-|Assembly| 25%|
-|OCaml| 20%|
+A student majoring in CSc	:full_moon_with_face:. **Artificial Intelligence** is the main research direction. An independent team leader with a strong interest in programming and logic.
 
 
  - :envelope: Email: songjh.john@gmail.com
