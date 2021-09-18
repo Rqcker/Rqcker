@@ -1,3 +1,4 @@
+![Intro](https://github.com/Rqcker/Rqcker/blob/master/assets/myProffile.gif)
 ### Hi there 👋
 :mortar_board: **Junhao Song**,
 
