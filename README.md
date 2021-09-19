@@ -1,6 +1,34 @@
 ![Intro](https://github.com/Rqcker/Rqcker/blob/master/assets/myProffile.gif)
-### Hi there 👋
-:mortar_board: **Junhao Song**,
+
+### :mortar_board: A little more about me...  
+
+```javascript
+const John = {
+  
+  pronouns: "he" | "him",
+  
+  code: [C, C++, Python, Java, Javascript, Typescript, HTML, CSS, Prolog, Ocaml, R, SQL, Swift, ARM],
+  
+  tools: [Anaconda, Pycharm, Intellij_IDEA, Eclipse, JupyterNotebook, Rstudio, Dev_Cpp, VMware, Git, Xshell, Photoshop],
+  
+  architecture: ["Machine_Learning", "Data_Analysis", "Design_System_Pattern"],
+  
+  details: {
+                     Personal_Website: "http://junhaosong.com/",
+                     eMail: "songjh.john@gmail.com",
+                     Residence: "Edinburgh"
+           },
+  
+  challenge: "I am studying the impact of blockchain and information digitization"
+
+}
+```
+
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> MOTTO 
+
+> There is nothing like a dream to create the future.  -- Les Misérables, by Victor Hugo
+
+-----------------------------------------------------------------------------------------------------------------------------------
 
 <a href="https://junhaosong.com" target="_blank"><img src="https://github.com/Rqcker/Rqcker/blob/master/assets/www.png" alt="Website" width="30"></a>
 <a href="https://github.com/Rqcker" target="_blank"><img src="https://github.com/Rqcker/Rqcker/blob/master/assets/git.png" alt="GitHub" width="30"></a>
