@@ -7,7 +7,7 @@ const John = {
   
   pronouns: "he" | "him",
   
-  code: [C, C++, Python, Java, Javascript, Typescript, HTML, CSS, Prolog, Ocaml, R, SQL, Swift, ARM],
+  code: [C, C++, Python, Java, Javascript, Typescript, HTML, CSS, Prolog, Ocaml, R, SQL, Swift, ARM, C#],
   
   tools: [Anaconda, Pycharm, Intellij_IDEA, Eclipse, JupyterNotebook, Rstudio, Dev_Cpp, VMware, Git, Xshell, Photoshop],
   
