@@ -15,7 +15,7 @@ const John = {
   
   details: {
                      Personal_Website: "http://junhaosong.com/",
-                     eMail: "songjh.john@gmail.com",
+                     eMail: "junhao.song23@imperial.ac.uk",
                      Residence: "Edinburgh"
            },
   
