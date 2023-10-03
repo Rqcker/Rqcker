@@ -11,7 +11,7 @@ const John = {
   
   tools: [Anaconda, Pycharm, Intellij_IDEA, Eclipse, JupyterNotebook, Rstudio, Dev_Cpp, VMware, Git, Xshell, Photoshop],
   
-  architecture: ["Machine_Learning", "Data_Analysis", "Design_System_Pattern"],
+  architecture: ["deep_learning", "data_analysis", "computational_intelligence"],
   
   details: {
                      Personal_Website: "http://junhaosong.com/",
