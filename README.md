@@ -7,11 +7,11 @@ const John = {
   
   pronouns: "he" | "him",
   
-  code: [C, C++, Python, Java, Javascript, Typescript, HTML, CSS, Prolog, Ocaml, R, SQL, Swift, ARM, C#],
+  core_code: [C, C++, Python, Java, R, C#],
   
-  tools: [Anaconda, Pycharm, Intellij_IDEA, Eclipse, JupyterNotebook, Rstudio, Dev_Cpp, VMware, Git, Xshell, Photoshop],
+  core_tools: [Conda, LaTeX, Eclipse, JupyterNotebook, Git],
   
-  architecture: ["deep_learning", "data_analysis", "computational_intelligence"],
+  architecture: ["deep_learning", "data_mining", "computational_intelligence"],
   
   details: {
                      Personal_Website: "http://junhaosong.com/",
