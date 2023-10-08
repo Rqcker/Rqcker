@@ -9,7 +9,7 @@ const John = {
   
   core_code: [C, C++, Python, Java, R, C#],
   
-  core_tools: [Conda, LaTeX, Eclipse, JupyterNotebook, Git],
+  core_tools: [Conda, LaTeX, Vim, Jupyter, Git],
   
   architecture: ["deep_learning", "data_mining", "computational_intelligence"],
   
