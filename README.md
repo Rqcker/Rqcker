@@ -3,7 +3,7 @@
 ### :mortar_board: A little more about me...  
 
 ```javascript
-const John = {
+const Junhao = {
   
   pronouns: "he" | "him",
   
@@ -16,10 +16,10 @@ const John = {
   details: {
                      Personal_Website: "http://junhaosong.com/",
                      eMail: "junhao.song23@imperial.ac.uk",
-                     Residence: "Edinburgh"
+                     Residence: "London"
            },
   
-  challenge: "I am studying the impact of blockchain and information digitization"
+  challenge: "I'm working on topic modelling to address the public perspective in the circular economy."
 
 }
 ```
