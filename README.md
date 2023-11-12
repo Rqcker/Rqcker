@@ -14,9 +14,9 @@ const Junhao = {
   architecture: ["deep_learning", "data_mining", "computational_intelligence"],
   
   details: {
-                     personal_website: "http://junhaosong.com/",
-                     email: "junhao.song23@imperial.ac.uk",
-                     residence: "London"
+                     hobbies: ["opera", "travelling"],
+                     os: ["debian", "macOS"],
+                     pet: "garfield"
            },
   
   challenge: "I'm working on topic modelling to address the public perspective in the circular economy."
