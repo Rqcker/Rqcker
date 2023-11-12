@@ -14,9 +14,9 @@ const Junhao = {
   architecture: ["deep_learning", "data_mining", "computational_intelligence"],
   
   details: {
-                     Personal_Website: "http://junhaosong.com/",
-                     eMail: "junhao.song23@imperial.ac.uk",
-                     Residence: "London"
+                     personal_website: "http://junhaosong.com/",
+                     email: "junhao.song23@imperial.ac.uk",
+                     residence: "London"
            },
   
   challenge: "I'm working on topic modelling to address the public perspective in the circular economy."
@@ -32,5 +32,5 @@ const Junhao = {
 
 <a href="https://junhaosong.com" target="_blank"><img src="https://github.com/Rqcker/Rqcker/blob/master/assets/www.png" alt="Website" width="30"></a>
 <a href="https://github.com/Rqcker" target="_blank"><img src="https://github.com/Rqcker/Rqcker/blob/master/assets/git.png" alt="GitHub" width="30"></a>
-<a href="https://www.linkedin.com/in/junhaosong/?locale=en_US" target="_blank"><img src="https://github.com/Rqcker/Rqcker/blob/master/assets/in.png" alt="LinkedIn" width="30"></a>
+<a href="https://www.linkedin.com/in/junhaosong" target="_blank"><img src="https://github.com/Rqcker/Rqcker/blob/master/assets/in.png" alt="LinkedIn" width="30"></a>
 <a href="https://twitter.com/JunhaoSong1" target="_blank"><img src="https://github.com/Rqcker/Rqcker/blob/master/assets/tw.png" alt="Twitter" width="30"></a>
