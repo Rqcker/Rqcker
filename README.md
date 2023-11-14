@@ -7,21 +7,22 @@ const Junhao = {
   
   pronouns: "he" | "him",
   
-  core_code: [C, C++, Python, Java, R, C#],
+  core_code: ["C", "C++", "Python", "Java", "R", "C#"],
   
-  core_tools: [Conda, LaTeX, Vim, Jupyter, Git],
+  core_tools: ["Conda", "LaTeX", "Vim", "Jupyter", "Git"],
   
   architecture: ["deep_learning", "data_mining", "computational_intelligence"],
   
   details: {
-                     hobbies: ["opera", "travelling"],
-                     os: ["debian", "macOS"],
-                     pet: "garfield"
-           },
+    hobbies: ["opera", "travelling"],
+    os: ["debian", "macOS"],
+    pet: "garfield"
+  },
   
   challenge: "I'm working on topic modelling to address the public perspective in the circular economy."
 
 }
+
 ```
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> MOTTO 
