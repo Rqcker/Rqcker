@@ -11,7 +11,7 @@ const Junhao = {
   
   core_tools: ["Conda", "LaTeX", "Vim", "Jupyter", "Git"],
   
-  architecture: ["deep_learning", "data_mining", "computational_intelligence"],
+  architecture: ["deep_learning", "data_mining", "computational_game_theory"],
   
   details: {
     hobbies: ["opera", "travelling"],
