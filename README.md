@@ -19,7 +19,7 @@ const Junhao = {
     pet: "garfield"
   },
   
-  challenge: "I'm working on topic modelling to address the public perspective in the circular economy."
+  challenge: "I am currently working on graph neural networks for video generation."
 
 }
 
