@@ -11,7 +11,7 @@ const Junhao = {
   
   core_tools: ["Conda", "LaTeX", "Vim", "Jupyter", "Git"],
   
-  architecture: ["deep_learning", "data_mining", "computational_game_theory"],
+  architecture: ["multimodal_learning", "machine_learning", "visual_computing"],
   
   details: {
     hobbies: ["opera", "travelling"],
@@ -19,7 +19,7 @@ const Junhao = {
     pet: "garfield"
   },
   
-  challenge: "I am currently working on graph neural networks for video generation."
+  challenge: "I'm currently working on diffusion models for video generation."
 
 }
 
