@@ -4,9 +4,10 @@
 
 <div align="center">
 <a href="https://junhaosong.com" target="_blank"><img src="https://github.com/Rqcker/Rqcker/blob/master/assets/www.png" alt="Website" width="30"></a>
-<a href="https://github.com/Rqcker" target="_blank"><img src="https://github.com/Rqcker/Rqcker/blob/master/assets/git.png" alt="GitHub" width="30"></a>
+<a href="https://scholar.google.com/citations?user=oqn6yJIAAAAJ&hl=en" target="_blank"><img src="https://github.com/Rqcker/Rqcker/blob/master/assets/scholar.png" alt="Scholar" width="30"></a>
 <a href="https://www.linkedin.com/in/junhaosong" target="_blank"><img src="https://github.com/Rqcker/Rqcker/blob/master/assets/in.png" alt="LinkedIn" width="30"></a>
 <a href="https://twitter.com/JunhaoSong1" target="_blank"><img src="https://github.com/Rqcker/Rqcker/blob/master/assets/tw.png" alt="Twitter" width="30"></a>
+<a href="https://github.com/Rqcker" target="_blank"><img src="https://github.com/Rqcker/Rqcker/blob/master/assets/git.png" alt="GitHub" width="30"></a>
 </div>
 
 -----------------------------------------------------------------------------------------------------------------------------------
