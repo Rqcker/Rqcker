@@ -10,7 +10,7 @@
 <a href="https://github.com/Rqcker" target="_blank"><img src="https://github.com/Rqcker/Rqcker/blob/master/assets/git.png" alt="GitHub" width="30"></a>
 </div>
 
------------------------------------------------------------------------------------------------------------------------------------
+
 
 ### :mortar_board: A little more about me...  
 
@@ -23,7 +23,7 @@ const Junhao = {
   
   core_tools: ["Conda", "LaTeX", "Vim", "Jupyter", "Git"],
   
-  architecture: ["multimodal_learning", "machine_learning", "visual_computing"],
+  architecture: ["stochastic_modelling", "representation_learning", "q_learning"],
   
   details: {
     hobbies: ["opera", "travelling"],
@@ -31,7 +31,7 @@ const Junhao = {
     pet: "garfield"
   },
   
-  challenge: "I'm currently working on diffusion models for video generation."
+  challenge: "I'm currently working on stochastic modelling applied to carbon finance."
 
 }
 
@@ -40,3 +40,5 @@ const Junhao = {
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> MOTTO 
 
 > There is nothing like a dream to create the future.  -- Les Misérables, by Victor Hugo
+
+-----------------------------------------------------------------------------------------------------------------------------------
