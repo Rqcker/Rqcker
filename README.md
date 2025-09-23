@@ -23,7 +23,7 @@ const Junhao = {
   
   core_tools: ["Conda", "LaTeX", "Vim", "Jupyter", "Git"],
   
-  architecture: ["stochastic_modelling", "representation_learning", "q_learning"],
+  architecture: ["stochastic_modelling", "representation_learning", "multimodal"],
   
   details: {
     hobbies: ["opera", "travelling"],
