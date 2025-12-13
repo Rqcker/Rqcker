@@ -31,7 +31,7 @@ const Junhao = {
     pet: "garfield"
   },
   
-  challenge: "I'm currently working on stochastic modelling applied to carbon finance."
+  challenge: "I'm currently working on some cool stuff about Consensus."
 
 }
 
