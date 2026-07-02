@@ -17,7 +17,7 @@
 ```javascript
 const Junhao = {
   
-  pronouns: "he" | "him",
+  pronouns: "he/him",
   
   core_code: ["C", "C++", "Python", "Java", "R", "C#"],
   
@@ -34,7 +34,6 @@ const Junhao = {
   challenge: "I'm currently working on some cool stuff about Consensus."
 
 }
-
 ```
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> MOTTO 
